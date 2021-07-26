@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html class="no-js" lang="en">
 
-You can use the [editor on GitHub](https://github.com/kstrangem/Capstone-Website-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="utf-8">
+  <title>INGREDIENT ENDEAVORS</title>
+  <link rel="shortcut icon" href="images/logo_i.e.jpg">
+  <link rel="stylesheet" href="css/style.css">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+  <h1><h1><a href="file:///Users/kstrange/Desktop/capstone/Capstone%20Webpage%20Draft/index.html"> CAPSTONE</a> </h1>
+   <img src="images/full_logo.png" alt="logo" class="full_logo">
+  <nav class="main-nav">
+    <ul>
+      <li class="is-active"><a href="sub_pages/biography/biography.html">BIOGRAPHY</a></li>
+      <li class="is-active"><a href="sub_pages/research/research.html">RESEARCH</a></li>
+      <li><a href="sub_pages/process/process.html">PROCESS + TOOLS</a></li>
+      <li><a href="sub_pages/deliverables/deliverables.html">DELIVERABLES</a></li>
+      <li><a href="sub_pages/summary/summary.html">SUMMARY</a></li>
+    </ul>
+   </nav>
+     <div class="pic_1">
+    <img src="images/tomato_illustration.jpg" alt="tomato image" class="img_1">
+  </div>
+<div class="page-content">
+    <header class="page-header">
+    </header>
+    <main class="main-content">
+      <article>
+        <p>Ingredient Endeavors is a meal planning application used to help problem solve 
+        weekly and day to day meal planning challenges based on ingredients on hand.</p>
+      </article>
+      <article>
+        <p>
+        Meal planning has many challenges including time, limited ingredients, 
+        budgets, and dietary restrictions. The goal of I.E. is to ease these 
+        stresses by providing options through a search of ingredients to 
+        make meal planning easy and approachable.</p>
+      </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kstrangem/Capstone-Website-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      </article>
+    </main>
+</body>
+<div id="footer">
+    <div class="footer-body">
+      <h3 class="footer-header">Contact</h3>
+      <p>kstrange.m@gmail.com</p>
+    </div>
+</footer>
+</div>
+</html>
