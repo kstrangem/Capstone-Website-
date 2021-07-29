@@ -107,21 +107,26 @@ h3 {
   color:#ffff;
   
 }
+.footer-body h3 {
+  color:#ffff;
+  float:left;
+  padding-left: 3em;
+}
 .footer-header {
   font-family:sans-serif;
   color:#ffff;
-  /*padding: .5em;
-  margin: 1.5em;*/
+  padding-left: 3em;
 }
 .footer-body {
   background-color: #f3a61d;
   /* position:fixed;*/
    bottom:0;
    width:100%;
-   height:100px;  
+   height:100px; 
+  }
+  .footer-contact {
+    padding-left: 3em;
+    padding-top: 3.25em;
   }
 
-.footer-body h3 {
-  color:#ffff;
-  float:left;
-}
+
