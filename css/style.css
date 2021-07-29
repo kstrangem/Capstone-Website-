@@ -84,12 +84,15 @@ h1 {
   margin:  .5em;
 }
 h2 {
-  text-align:center ;
-  font-family:sans-serif;
+  font-family:Jellee-Roman;
   color:#5e5360;
 }
 
-
+h3 {
+  font-family:Jellee-Roman;
+  color:#5e5360;
+  
+}
 
 /* Footer */
 #footer {
