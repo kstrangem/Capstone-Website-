@@ -75,14 +75,13 @@ p{
 .main-content {
   padding:  1em;
   margin-left: .2em;
-  margin-top: 2em;
+  margin-top: 1em;
 }
 h1 {
   color:#5e5360;
   font-family: Roboto;
   font-size: 50px;
-  /*padding: .5em;*/
-  margin:  .5 em;
+  padding-left: 1em;
 }
 h2 {
   font-family:Jellee-Roman;
