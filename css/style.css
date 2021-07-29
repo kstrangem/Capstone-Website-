@@ -69,6 +69,7 @@ p{
   font-size: 20px;
   font-family: Roboto-Regular;
   color:#5e5360;
+  padding-left: 1em;
 
 }
 .main-content {
@@ -81,16 +82,18 @@ h1 {
   font-family: Roboto;
   font-size: 50px;
   /*padding: .5em;*/
-  margin:  .5em;
+  margin:  .5 em;
 }
 h2 {
   font-family:Jellee-Roman;
   color:#5e5360;
+  padding-left: 1em;
 }
 
 h3 {
   font-family:Jellee-Roman;
   color:#5e5360;
+  padding-left: 1em;
 }
 
 /* Footer */
