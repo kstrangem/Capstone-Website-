@@ -94,11 +94,50 @@ h3 {
   color:#5e5360;
   padding-left: 3.8em;
 }
+
+/* Research */
+
 .food_images {
   position: absolute;
   max-width: 96%;
   padding-left: 50em;
-  padding-top: 14em;
+  padding-top: 16em;
+}
+
+/* Process */
+
+.processtitle_1 {
+  padding-left: 4em;
+  padding-top: 2em;
+}
+
+.tools {
+   padding-left: 5em;
+/*   display: inline-block;*/
+  /*margin-left: 2em;
+  padding: 5em;*/
+/*  -webkit-columns: 2;
+  -moz-columns: 2;*/
+   color: #c3382a;
+}
+
+.illustrationtools{
+   padding-left: 5em;
+ /* display: inline-block;*/
+  /*margin-left: 2em;
+  padding: 5em;*/
+/*  -webkit-columns: 2;
+  -moz-columns: 2;*/
+  color: #c3382a;
+
+}
+.processtitle_2 {
+  padding-left: 4em;
+  padding-top: 4em;
+
+}
+.processtitle_main {
+  margin-top: 2.5em;
 }
 
 /* Footer */
