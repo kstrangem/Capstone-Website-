@@ -148,8 +148,10 @@ h3 {
   margin: 2em;
   padding-left: 3em;
 }
-
-
+.sketch_wireframe {
+  max-width: 50%;
+  padding-left: 5em;
+}
 
 /* Footer */
 #footer {
