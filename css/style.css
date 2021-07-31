@@ -94,6 +94,12 @@ h3 {
   color:#5e5360;
   padding-left: 3.8em;
 }
+.food_images {
+  position: absolute;
+  max-width: 96%;
+  padding-left: 50em;
+  padding-top: 14em;
+}
 
 /* Footer */
 #footer {
