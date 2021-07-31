@@ -77,6 +77,9 @@ p{
   margin-left: .2em;
   margin-top: 1em;
 }
+.the_sell {
+  margin-bottom: 10em;
+}
 h1 {
   color:#5e5360;
   font-family: Roboto;
@@ -106,8 +109,9 @@ h3 {
 
 /* Process */
 
-.processtitle_1 {
-  padding-left: 4em;
+.processtitle {
+  padding-left: 5em;
+  padding-bottom: 3em;
   padding-top: 2em;
 }
 
@@ -131,15 +135,17 @@ h3 {
   color: #c3382a;
 
 }
-.processtitle_2 {
-  padding-left: 4em;
-  padding-top: 4em;
 
-}
 .processtitle_main {
   margin-top: 2.5em;
 }
-
+.persona_image {
+  max-width: 70%;
+  padding-left: 5em;
+}
+.sketch_image {
+  max-width: 90%;
+}
 /* Footer */
 #footer {
   position: absolute;
