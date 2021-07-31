@@ -145,7 +145,12 @@ h3 {
 }
 .sketch_image {
   max-width: 90%;
+  margin: 2em;
+  padding-left: 3em;
 }
+
+
+
 /* Footer */
 #footer {
   position: absolute;
