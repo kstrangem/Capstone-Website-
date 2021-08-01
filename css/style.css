@@ -105,8 +105,13 @@ h3 {
 
 .remi_1 {
 
-max-width: 70%;
+max-width: 65%;
 float: right;
+}
+
+.remi_2 {
+  max-width: 70%;
+  margin-left: 15em;
 }
 
 
