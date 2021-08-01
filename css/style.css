@@ -160,8 +160,14 @@ h3 {
   max-width: 50%;
   padding-left: 5em;
 }
+.info_tally {
+  max-width: 50%;
+}
 
-
+/* Deliverables */
+.brand_page2 {
+max-width: 50%;
+}
 
 
 /* Footer */
