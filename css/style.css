@@ -65,8 +65,8 @@ li {
 }
 
 p{
-  margin-top: 1em;
-  margin-left: 4em;
+  margin-top: 3em;
+  margin-left: 6em;
   font-size: 20px;
   font-family: Roboto-Regular;
   color:#5e5360;
@@ -90,7 +90,8 @@ h1 {
 h2 {
   font-family:Jellee-Roman;
   color:#5e5360;
-  padding-left: 3em;
+  padding-left: 1.4em;
+  font-size: 40px;
 }
 
 h3 {
@@ -110,12 +111,12 @@ h3 {
 
 .research_list {
   margin-top: 2.5em;
-  margin-left: 4em;
-  font-size: 20px;
-  font-family: Roboto-Regular;
+  margin-left: -2.5em;
+  font-size: 40px;
+  font-family: Roboto-Medium;
   color:#5e5360;
   padding-left: .5em;
-  padding-bottom: 25em;
+  padding-bottom: 30em;
 }
 
 /* Process */
@@ -182,6 +183,21 @@ h3 {
 .brand_page2 {
 max-width: 50%;
 }
+
+
+
+
+/*Deliverables */
+
+.style_guide {
+  padding-left: 6em;
+}
+
+.infographic_final {
+  padding-left: 6em;
+  padding-top:  3em;
+}
+
 
 
 /* Footer */
