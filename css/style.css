@@ -88,9 +88,10 @@ h1 {
   padding-left: 1em;
 }
 h2 {
+  margin-top: 3em;
   font-family:Jellee-Roman;
   color:#5e5360;
-  padding-left: 1.4em;
+  padding-left: 3.3em;
   font-size: 40px;
 }
 
@@ -179,26 +180,31 @@ h3 {
    max-width: 50%;
 }
 
-/* Deliverables */
-.brand_page2 {
-max-width: 50%;
-}
-
 
 
 
 /*Deliverables */
+.brand_page2 {
+max-width: 50%;
+}
+
 
 .style_guide {
   padding-left: 6em;
 }
 
 .infographic_final {
-  padding-left: 6em;
+   margin-left: 20em;
   padding-top:  3em;
+  width: 50%;
 }
 
+.prototype_final {
+  max-width: 80%;
+  margin-left: 10em;
+  margin-top: 1em;
 
+}
 
 /* Footer */
 
