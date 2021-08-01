@@ -34,7 +34,7 @@ ul {
 li {
   float: left;
   display: block;
-  padding: 8px;
+  padding: 2px;
   font-family:Jellee-Roman;
   font-weight: bold;
 }
@@ -139,7 +139,7 @@ h3 {
 }
 
 .illustrationtools{
-   padding-left: 5em;
+   padding-left: 6em;
  /* display: inline-block;*/
   /*margin-left: 2em;
   padding: 5em;*/
