@@ -101,6 +101,16 @@ h3 {
   padding-left: 3.8em;
 }
 
+/* Bibliography */
+
+.remi_1 {
+
+max-width: 70%;
+float: right;
+}
+
+
+
 /* Research */
 
 .food_images {
@@ -139,7 +149,7 @@ h3 {
 }
 
 .illustrationtools{
-   padding-left: 6em;
+   padding-left: 7em;
  /* display: inline-block;*/
   /*margin-left: 2em;
   padding: 5em;*/
