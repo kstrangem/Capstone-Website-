@@ -57,13 +57,6 @@ li {
 /* Body */
 
 
-.img_1 {
-  max-width: 50%;
-  padding-bottom: 2.5em;
-  float: right;
-  z-index: 1;
-}
-
 p{
   margin-top: 3em;
   margin-left: 6em;
@@ -72,6 +65,13 @@ p{
   color:#5e5360;
   padding-left: .5em;
 
+}
+
+.img_1 {
+  max-width: 50%;
+  padding-bottom: 2.5em;
+  float: right;
+  z-index: 1;
 }
 .main-content {
   padding:  1em;
