@@ -212,20 +212,21 @@ max-width: 50%;
 }
 
 .infographic_final {
-   margin-left: 20em;
+   margin-left: 23em;
   padding-top:  3em;
   width: 60%;
 }
 
 .prototype_final {
   max-width: 80%;
-  margin-left: 10em;
+  margin-left: 15em;
   margin-top: 1em;
 
 }
 
 .illustration {
-    margin-left: 2em;
+    margin-left: 15em;
+    max-width: 70%;
 }
 
 /* Footer */
