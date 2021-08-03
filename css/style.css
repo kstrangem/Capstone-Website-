@@ -135,34 +135,24 @@ float: left;
   font-family: Roboto-Medium;
   color:#5e5360;
   padding-left: .5em;
-  padding-bottom: 30em;
+  padding-bottom: 10em;
 }
 
 /* Process */
 
 .processtitle {
   padding-left: 3em;
-  padding-bottom: 3em;
-  padding-top: 2em;
+  padding-bottom: 1em;
 }
 
 .tools {
    padding-left: 5em;
-/*   display: inline-block;*/
-  /*margin-left: 2em;
-  padding: 5em;*/
-/*  -webkit-columns: 2;
-  -moz-columns: 2;*/
    color: #c3382a;
 }
 
 .illustrationtools{
-   padding-left: 7em;
- /* display: inline-block;*/
-  /*margin-left: 2em;
-  padding: 5em;*/
-/*  -webkit-columns: 2;
-  -moz-columns: 2;*/
+   padding-left: 15em;
+   font-size: 25px;
   color: #c3382a;
 
 }
@@ -171,21 +161,21 @@ float: left;
   margin-top: 2.5em;
 }
 .persona_image {
-  max-width: 70%;
-  padding-left: 5em;
+  max-width: 80%;
+  padding-left: 24em;
 }
 .sketch_image {
-  max-width: 90%;
+  max-width: 85%;
   margin: 2em;
-  padding-left: 3em;
+  padding-left: 15em;
 }
 .sketch_wireframe {
-  max-width: 50%;
-  padding-left: 5em;
+  max-width: 45%;
+  padding-left: 15em;
 }
 .wireframe {
-  max-width: 60%;
-  padding-left: 5em;
+  max-width: 85%;
+  padding-left: 25em;
 }
 .branding1 {
   max-width: 50%;
