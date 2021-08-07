@@ -161,6 +161,11 @@ float: left;
 
 /* Process */
 
+.meal_prep {
+  max-width: 60%;
+  margin-left: 20em;
+}
+
 .processtitle {
   padding-left: 3em;
   padding-bottom: 1em;
@@ -253,6 +258,7 @@ max-width: 50%;
 
   max-width: 60%;
   margin-left: 17em;
+  margin-bottom: 5em;
 }
 /* Footer */
 
