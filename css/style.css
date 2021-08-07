@@ -55,7 +55,10 @@ li {
 
 
 /* Body */
-
+.platform_link {
+  color: #ffffff;
+  margin-left: 4.7em;
+}
 
 p{
   margin-top: 3em;
@@ -256,11 +259,11 @@ max-width: 50%;
   background-color: #f3a61d;
   /* position:fixed;*/
    bottom:0;
-   width:100%;
+   width:110%;
    height:150px; 
   }
   .footer-contact {
-    padding-left: 3em;
+    padding-left: -7em;
     padding-top: 3em;
   }
 
