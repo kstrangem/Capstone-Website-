@@ -15,9 +15,9 @@ html {
 *, *:before, *:after {
         box-sizing: inherit;
     }
-body {
+/*body {
     padding-top: .5em;
-    }
+    }*/
 
 
 /*Nav*/
@@ -38,14 +38,35 @@ li {
   font-family:Jellee-Roman;
   font-weight: bold;
 }
-  a { 
+h1 {
+  color:#5e5360;
+  font-family: Roboto;
+  font-size: 50px;
+  padding-left: 1em;
+}
+.nav {
+   text-decoration:none; 
+  color: #707070;
+  font-family:;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+.header {
+  color:#5e5360;
+  font-family: Roboto;
+  font-size: 50px;
+  padding-left: -1em;
+  text-decoration: none;
+}
+/*  a { 
   text-decoration:none; 
   color: #707070;
   font-family:;
   padding: 14px 25px;
   text-align: center;
   display: inline-block;
-  }
+  }*/
 
 .full_logo {
   max-width: 20%;
@@ -60,6 +81,7 @@ li {
   margin-left: 4.7em;
 }
 
+
 p{
   margin-top: 3em;
   margin-left: 6em;
@@ -71,26 +93,6 @@ p{
 
 }
 
-.img_1 {
-  max-width: 50%;
-  padding-bottom: 2.5em;
-  float: right;
-  z-index: 1;
-}
-.main-content {
-  padding:  1em;
-  margin-left: .2em;
-  margin-top: 1em;
-}
-.the_sell {
-  margin-bottom: 10em;
-}
-h1 {
-  color:#5e5360;
-  font-family: Roboto;
-  font-size: 50px;
-  padding-left: 1em;
-}
 h2 {
   margin-top: 3em;
   font-family:Jellee-Roman;
@@ -105,7 +107,23 @@ h3 {
   padding-left: 3.8em;
 }
 
-/* Bibliography */
+.img_1 {
+  max-width: 60%;
+  padding-bottom: 2.5em;
+  float: right;
+  z-index: 1;
+}
+.main-content {
+  padding:  1em;
+  margin-left: .2em;
+  margin-top: 1em;
+}
+.the_sell {
+  margin-bottom: 10em;
+}
+
+
+/* Biography */
 
 .remi_1 {
 
@@ -117,7 +135,6 @@ float: left;
 
 .remi_2 {
   max-width: 50%;
-  margin-left: .5em;
   float: right;
 }
 
@@ -229,6 +246,13 @@ max-width: 50%;
   max-width: 80%;
 }
 
+/* Summary */
+
+.kale_mango{
+
+  max-width: 60%;
+  margin-left: 17em;
+}
 /* Footer */
 
 #footer {
@@ -260,7 +284,7 @@ max-width: 50%;
   /* position:fixed;*/
    bottom:0;
    width:110%;
-   height:150px; 
+   height:160px; 
   }
   .footer-contact {
     padding-left: -7em;
