@@ -9,9 +9,6 @@ html {
 *, *:before, *:after {
         box-sizing: inherit;
     }
-/*body {
-    padding-top: .5em;
-    }*/
 
 
 /*Nav*/
@@ -329,10 +326,13 @@ max-width: 50%;
   margin-left: 8em;
   padding-top: .75em;
 }
-.sub_link {
-  top: 150px;
-margin-left: 1.9em;
-  text-decoration: none;
+
+.sub_link a{
   color: fffff; 
+}
+.sub_link {
+  /*top: 150px;*/
+margin-left: 1.9em;
+  text-decoration: none; 
 }
 
