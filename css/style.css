@@ -9,8 +9,8 @@
 html {
 
     box-sizing: border-box;
-    max-width: 1400px;
-    min-width: 1400px;
+    max-width: 1200px;
+    min-width: 1200px;
     }
 *, *:before, *:after {
         box-sizing: inherit;
@@ -189,14 +189,18 @@ float: left;
    padding-left: 5em;
    color: #c3382a;
 }
-
+.digitaltools {
+     padding-left: 13em;
+   font-size: 20px;
+  color: #c3382a;
+  
+}
 .illustrationtools{
    padding-left: 13em;
-   font-size: 25px;
+   font-size: 20px;
   color: #c3382a;
 
 }
-
 .processtitle_main {
   margin-top: 2.5em;
 }
@@ -304,7 +308,7 @@ max-width: 50%;
   background-color: #f3a61d;
   /* position:fixed;*/
    bottom:0;
-   width:110%;
+   width:130%;
    height:160px; 
   }
   .footer-contact {
