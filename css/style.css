@@ -108,9 +108,10 @@ h3 {
 }
 
 .img_1 {
-  max-width: 60%;
+  max-width: 63%;
   padding-bottom: 2.5em;
   float: right;
+  padding-left: 2em;
   z-index: 1;
 }
 .main-content {
@@ -123,22 +124,26 @@ h3 {
 }
 
 
-/* Biography */
+/* About */
 
-.remi_1 {
-
-max-width: 65%;
-margin-top: 4em
-padding-bottom: 20em;
-float: left;
-}
 
 .remi_2 {
   max-width: 50%;
   float: right;
+  margin-bottom: 2em;
 }
+
+.remi_1 {
+
+max-width: 60%;
+/*margin-top: 10em*/
+padding-bottom: 20em;
+float: left;
+}
+
 .book-sources {
-  margin-bottom: 10em;
+  margin-bottom:8em;
+  margin-left: 40em;
 }
 
 
