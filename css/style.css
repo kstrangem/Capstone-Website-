@@ -196,6 +196,7 @@ float: left;
   max-width: 100%;
 }
 .pizza_dish {
+  margin-top: 3em;
   max-width: 45%;
   margin-left: 3em;
   float: right;
