@@ -13,6 +13,24 @@ html {
 
 /*Nav*/
 
+@font-face {
+  font-family: myFirstFont;
+  src: url(jellee-roman-webfont.woff);
+}
+
+div {
+  font-family: myFirstFont;
+}
+
+@font-face {
+  font-family: mySecondFont;
+  src: url(jellee-roman-webfont.woff2);
+}
+
+div {
+  font-family: mySecondFont;
+}
+
 .main-nav {
   float: right;
 }
