@@ -160,7 +160,7 @@ float: left;
 
 .remi_eggs{
   max-width: 60%;
- margin-left: 6em;
+ /*margin-left: 4em;*/
  margin-top: -12em;
  float: right;
 }
