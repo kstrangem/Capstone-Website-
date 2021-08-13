@@ -44,7 +44,7 @@ li {
   float: left;
   display: block;
   padding-left: 2px;
-  font-family:Jellee-Roman;
+  font-family:jellee-roman-webfont.woff;
   font-weight: bold;
 }
 h1 {
@@ -104,14 +104,14 @@ p{
 
 h2 {
   margin-top: 3em;
-  font-family:Jellee-Roman;
+  font-family:jellee-roman-webfont.woff;
   color:#5e5360;
   padding-left: 3.3em;
   font-size: 40px;
 }
 
 h3 {
-  font-family:Jellee-Roman;
+  font-family:jellee-roman-webfont.woff;
   color:#5e5360;
   padding-left: 3.8em;
 }
