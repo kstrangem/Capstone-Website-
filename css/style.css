@@ -320,6 +320,11 @@ max-width: 95%;
   margin-left: 17em;
   margin-bottom: 5em;
 }
+.books_2 {
+  margin-top: 3em;
+  max-width: 63%;
+  margin-left: 14em;
+}
 /* Footer */
 
 #footer {
