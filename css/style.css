@@ -162,7 +162,10 @@ float: left;
   margin-bottom:8em;
   margin-left: 40em;
 }
-
+.contact_link {
+  color:#5e5360;
+  text-decoration: none;
+}
 
 /* Research */
 
