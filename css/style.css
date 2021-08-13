@@ -159,8 +159,10 @@ float: left;
 }
 
 .remi_eggs{
-  max-width: 50%;
- margin-left: 8em;
+  max-width: 60%;
+ margin-left: 6em;
+ margin-top: -8em;
+ float: right;
 }
 .book-sources {
   margin-bottom:8em;
