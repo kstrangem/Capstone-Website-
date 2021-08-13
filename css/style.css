@@ -146,7 +146,7 @@ h4 {
 .remi_2 {
   max-width: 52%;
   float: right;
-  margin-bottom: 2em;
+  margin-bottom: 4em;
 }
 
 .remi_1 {
@@ -158,6 +158,10 @@ margin-bottom: 5em;
 float: left;
 }
 
+.remi_eggs{
+  max-width: 50%;
+ margin-left: 8em;
+}
 .book-sources {
   margin-bottom:8em;
   margin-left: 40em;
