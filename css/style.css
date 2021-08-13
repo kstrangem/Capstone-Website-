@@ -183,7 +183,11 @@ float: left;
   padding-left: 3em;
   padding-bottom: 1em;
 }
-
+.pasta_dish {
+  margin-left: 8em;
+  margin-top: 3em;
+  max-width: 100%;
+}
 .tools {
    padding-left: 5em;
    color: #c3382a;
