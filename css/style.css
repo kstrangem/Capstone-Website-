@@ -162,24 +162,25 @@ float: left;
 /* Research */
 
 .food_images {
-  position: absolute;
+/*  position: absolute;*/
   /*max-height: 106%;*/
-  max-height: 80%;
-  margin-left: 28em;
-  margin-top: 18em;
+ /* float: right;*/
+  max-width: 50%;
+  margin-left:4em;
+  margin-top: 2em;
   /*padding-top: 12em;*/
 
 }
 
 .research_list {
-  margin-top: 3em;
-  margin-left: -2.5em;
+  margin-top: 2em;
+  margin-left: -2.3em;
+  padding-bottom: .5em;
   font-size: 40px;
   font-family: Arial;
   font-weight: bold;
   color:#5e5360;
   padding-left: .75em;
-  padding-bottom: 2.5em;
 }
 .processtitle_r {
   padding-left: 1.5em;
