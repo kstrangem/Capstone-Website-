@@ -44,7 +44,7 @@ li {
   float: left;
   display: block;
   padding-left: 2px;
-  font-family:jellee-roman-webfont.woff;
+  font-family:Arial;
   font-weight: bold;
 }
 h1 {
@@ -104,14 +104,14 @@ p{
 
 h2 {
   margin-top: 3em;
-  font-family:jellee-roman-webfont.woff;
+  font-family:Arial;
   color:#5e5360;
   padding-left: 3.3em;
   font-size: 40px;
 }
 
 h3 {
-  font-family:jellee-roman-webfont.woff;
+  font-family:Arial;
   color:#5e5360;
   padding-left: 3.8em;
 }
@@ -163,9 +163,11 @@ float: left;
 
 .food_images {
   position: absolute;
-  max-height: 106%;
-  padding-left: 43em;
-  padding-top: 12em;
+  /*max-height: 106%;*/
+  max-height: 80%;
+  margin-left: 28em;
+  margin-top: 18em;
+  /*padding-top: 12em;*/
 
 }
 
