@@ -166,6 +166,11 @@ float: left;
   color:#5e5360;
   text-decoration: none;
 }
+.intro_sketch {
+  max-width: 50%;
+  padding-top: 1em;
+  margin-left: 20em;
+}
 
 /* Research */
 
