@@ -115,6 +115,12 @@ h3 {
   color:#5e5360;
   padding-left: 3.8em;
 }
+h4 {
+  font-family:Arial;
+  color: #ffff;
+  padding-top: 2em;
+  padding-left: 2em;
+}
 
 .img_1 {
   max-width: 63%;
@@ -325,6 +331,31 @@ max-width: 95%;
   max-width: 63%;
   margin-left: 14em;
 }
+
+
+/*Subpage Footer */
+
+.sub_header {
+  /*margin-left: -20em;*/
+  margin-right: -10em;
+}
+.sub_contact {
+  padding-left: -1em;
+  padding-top: -80em;
+}
+
+.sub_link {
+  /*top: 150px;*/
+  margin-left: -.3em;
+  text-decoration: none;
+  /*color: #ffff; */
+}
+
+.sub_link a {
+  /*top: 150px;*/
+margin-left: 1.9em;
+  text-decoration: none; 
+}
 /* Footer */
 
 #footer {
@@ -365,24 +396,5 @@ max-width: 95%;
     padding-left: -7em;
     padding-top: 3em;
   }
-
-
-
-/*Subpage Footer */
-
-.sub_header {
-  /*margin-left: -20em;*/
-  margin-right: -10em;
-}
-.sub_contact {
-  margin-left: 8em;
-  padding-top: .75em;
-}
-
-.sub_link {
-  /*top: 150px;*/
-margin-left: 1.9em;
-  text-decoration: none; 
-}
 
 
