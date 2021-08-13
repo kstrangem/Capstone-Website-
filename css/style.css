@@ -31,7 +31,8 @@ li {
 }
 h1 {
   color:#5e5360;
-  font-family: Roboto;
+  font-family: Arial;
+  font-weight: bold;
   font-size: 50px;
   padding-left: 1em;
 }
