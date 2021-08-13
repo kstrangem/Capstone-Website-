@@ -76,7 +76,7 @@ h1 {
 p{
   margin-top: 3em;
   margin-left: 6em;
-  margin-right: 1em;
+ /* margin-right: 1em;*/
   font-size: 20px;
   font-family: Roboto-Regular;
   color:#5e5360;
@@ -144,8 +144,8 @@ float: left;
 
 .food_images {
   position: absolute;
-  max-width: 96%;
-  padding-left: 50em;
+  max-height: 106%;
+  padding-left: 42em;
   padding-top: 10em;
 }
 
@@ -155,7 +155,7 @@ float: left;
   font-size: 40px;
   font-family: Roboto-Medium;
   color:#5e5360;
-  padding-left: .5em;
+  padding-left: .75em;
   padding-bottom: 2.5em;
 }
 .processtitle_r {
