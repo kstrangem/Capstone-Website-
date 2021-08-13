@@ -209,7 +209,7 @@ float: left;
 .persona_image {
   max-width: 90%;
   padding-left: 20em;
-  margin-top: 7em;
+  margin-top: em;
 }
 .sketch_image {
   max-width: 98%;
@@ -219,7 +219,8 @@ float: left;
 }
 .sketch_wireframe {
   max-width: 75%;
-  padding-left: 33em;
+  margin-left: 12em;
+  margin-top: 3em;
 }
 .wireframe {
   max-width: 85%;
