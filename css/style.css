@@ -6,9 +6,9 @@ html {
     max-width: 1200px;
     min-width: 1200px;
     }
-*, *:before, *:after {
+/**, *:before, *:after {
         box-sizing: inherit;
-    }
+    }*/
 
 
 /*Nav*/
@@ -130,9 +130,8 @@ h4 {
   z-index: 1;
 }
 .main-content {
-  /*padding:  1em;*/
   margin-left: .2em;
-  margin-top: 1em;
+/*  margin-top: 1em;*/
 }
 .the_sell {
   margin-bottom: 10em;
@@ -329,7 +328,7 @@ max-width: 95%;
 .books_2 {
   margin-top: 3em;
   max-width: 63%;
-  margin-left: 14em;
+  margin-left: 16em;
 }
 
 
@@ -340,8 +339,9 @@ max-width: 95%;
   margin-right: -10em;
 }
 .sub_contact {
-  padding-left: -1em;
-  padding-top: -80em;
+   margin-left: 1em;
+    padding-left: -6em;
+    padding-top: 3em;
 }
 
 .sub_link {
