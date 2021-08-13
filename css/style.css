@@ -228,7 +228,8 @@ float: left;
 }
 .branding1 {
   max-width: 95%;
-  padding-left: 25em;
+  margin-left: 8em;
+  margin-top: 3em;
 }
 
 .info_sketch {
