@@ -189,10 +189,10 @@ float: left;
   max-width: 100%;
 }
 .pizza_dish {
-  max-width: 55%;
+  max-width: 45%;
   margin-left: 3em;
   float: right;
-  padding: 2em;
+/*  padding: 2em;*/
 }
 .tools {
    padding-left: 5em;
