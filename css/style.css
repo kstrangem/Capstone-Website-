@@ -231,6 +231,7 @@ float: left;
 }
 .tools {
    padding-left: 5em;
+   margin-top: 1;
    color: #c3382a;
 }
 .digitaltools {
@@ -253,14 +254,13 @@ float: left;
   margin-top: 2.5em;
 }
 .persona_image {
-  max-width: 90%;
-  padding-left: 20em;
-  margin-top: 3em;
+  max-width: 75%;
+  padding-left: 10em;
+  margin-top: 2em;
 }
 .sketch_image {
-  max-width: 98%;
+  max-width: 85%;
   margin-top: 3em;
-  margin-bottom: 2em;
   padding-left: 8em;
 }
 .sketch_wireframe {
@@ -279,8 +279,8 @@ float: left;
 }
 
 .info_sketch {
-   max-width: 85%;
-   padding-left: 30em;
+   max-width: 60%;
+   padding-left: 20em;
    margin-bottom: 6em;
 }
 
@@ -361,7 +361,7 @@ margin-left: 1.9em;
 #footer {
   position: absolute;
   bottom: 0;
-  width: 100%;
+  width: 110%;
   height: 2.5rem;            /* Footer height */
 }
 .footer-body p {
