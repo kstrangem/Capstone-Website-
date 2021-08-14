@@ -232,7 +232,7 @@ float: left;
 .pizza_dish {
   margin-top: -3em;
   max-width: 48%;
-  margin-left: 3em;
+  margin-left: 3.5em;
   float: right;
 }
 
@@ -280,6 +280,7 @@ float: left;
   max-width: 85%;
   margin-top: 3em;
   padding-left: 8em;
+  margin-bottom: 4em;
 }
 .sketch_wireframe {
   max-width: 60%;
